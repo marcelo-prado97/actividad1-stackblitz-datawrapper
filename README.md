@@ -3,7 +3,7 @@
 **Nombre:** Enrique Marcelo Calle Prado
 
 **Proyecto en StackBlitz:**  
-[Ver proyecto en StackBlitz](https://stackblitz.com/edit/stackblitz-starters-x59espuy?file=index.html)  
+[Ver proyecto en StackBlitz](https://stackblitz.com/~/github.com/marcelo-prado97/actividad1-stackblitz-datawrapper)  
 
 **Repositorio en GitHub:**  
 [Ver repositorio en GitHub](https://github.com/marcelo-prado97/actividad1-stackblitz-datawrapper)
